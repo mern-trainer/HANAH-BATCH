@@ -25,6 +25,26 @@ git remote add <remote_name> <remote_url> -> adds the remote repo to your local 
 
 git push <remote_name> <branch_name> -> pushes the changes to the remote repo
 
+------------------------------------------------------------------------------------------------------------
+
+-> Branch 
+
+-> master -> feature
+-> master -> feature001
+
+-> git branch <branch_name> -> creates a new branch
+-> git branch -> lists all the branches
+
+-> git switch <branch_name> -> switches to the branch_name
+-> git checkout <branch_name> -> switches to the branch_name
+
+
+
+-> git merge <branch_name> -> merges the branch_name to the current branch
+
+
+
+
 
 
 
