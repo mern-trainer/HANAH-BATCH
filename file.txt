@@ -1,0 +1,27 @@
+Hello World!
+hello
+
+
+-> 1.1
+
+-> vs code -> 
+-> git -> version control system
+-> github -> cloud storage
+
+-> commands
+
+git clone <repo_url> -> clones the repo to your local machine
+
+git init -> initializes a git repo in your local machine
+
+git config --global user.name "your name" -> sets your name in git
+git config --global user.email "your email" -> sets your email in git
+
+git add <file_1> <file_2> <file_3> -> adds the files to the staging area
+git add . -> adds all the files to the staging area
+
+
+
+
+
+
