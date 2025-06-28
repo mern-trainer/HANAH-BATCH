@@ -19,6 +19,12 @@ git config --global user.email "your email" -> sets your email in git
 
 git add <file_1> <file_2> <file_3> -> adds the files to the staging area
 git add . -> adds all the files to the staging area
+git commit -m "<commit message>" -> commits the changes to the local repo
+
+git remote add <remote_name> <remote_url> -> adds the remote repo to your local repo
+
+git push <remote_name> <branch_name> -> pushes the changes to the remote repo
+
 
 
 
